@@ -1,0 +1,8 @@
+pyotp
+cryptography
+pillow
+pyzbar
+opencv-python
+pystray
+tkinter
+cv2

@@ -1,0 +1,10 @@
+{
+    "refresh_interval": 30,
+    "export_filename": "secrets_export.json",
+    "auto_lock_timeout": 300,
+    "use_gui": true,
+    "enable_qr_scan": true,
+    "enable_webcam_scan": true,
+    "enable_tray_minimize": true,
+    "default_secret_file": "secrets.json"
+}
